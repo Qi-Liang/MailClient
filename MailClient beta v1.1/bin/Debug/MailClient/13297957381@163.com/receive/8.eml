@@ -1,0 +1,38 @@
++OK 27006 octets
+Received: from mail-yk0-f198.google.com (unknown [209.85.160.198])
+	by mx42 (Coremail) with SMTP id XMCowEBpjVGEXURWJTwiEA--.8905S2;
+	Thu, 12 Nov 2015 17:36:04 +0800 (CST)
+Received: by ykdt74 with SMTP id t74so96142344ykd.3
+        for <13297957381@163.com>; Thu, 12 Nov 2015 01:36:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20120806;
+        h=mime-version:feedback-id:date:message-id:subject:from:to
+         :content-type;
+        bh=8VvxgW+xOi9YV0Vy/7NZwvvDmGpjC8nYxvKXg3DaYyM=;
+        b=dkd3yxw52twt3DGEqOouclx7Ihwvii/AXzWyFToJ//a8HalQkdU16tTuyGvazvUraJ
+         dlXw+3sfpL6MK9aX3cW/kUYRTIwUfla6IQUX/hUhrcGRSxZITvrx7QCFCuMHnA5X3fN3
+         5yZG7Evb0fqA207JDzJ6g5FC5JJ85AMNwIcWt2ut3FczR9eFL8GNVgWh6qIPtXMt+9lp
+         N/l6UbyRSUPAAZPF20VztEDGYA/5UvzMHlLzcjDlW8m3KvmivRHeLAOPehavD4TYpCWh
+         +fm8Q85rS8JsiAVktUFbm4mbDLjP6WiWGkUU582VkO3x8X+fvN673dstOTuDrG8UhCea
+         2v8Q==
+MIME-Version: 1.0
+X-Received: by 10.13.192.134 with SMTP id b128mr11941538ywd.43.1447320962489;
+ Thu, 12 Nov 2015 01:36:02 -0800 (PST)
+X-Notifications: XEAAAAMB0NIvdD4lMOEGcREHsr6o
+X-Account-Notification-Type: PASSWORD_CHANGE
+Feedback-ID: PASSWORD_CHANGE:account-notifier
+Date: Thu, 12 Nov 2015 09:35:55 +0000 (UTC)
+Message-ID: <JwYeUYapKcokbVLoMe8O4Q@notifications.google.com>
+Subject: =?GB2312?B?xPrVyruntcTD3MLrsbu4/LjEwcs=?=
+From: Google <no-reply@accounts.google.com>
+To: 13297957381@163.com
+Content-Type: multipart/related; boundary=001a114e4790d85f73052454abaf
+X-CM-TRANSID:XMCowEBpjVGEXURWJTwiEA--.8905S2
+Authentication-Results: mx42; spf=pass smtp.mail=3gl1evggtcwcuv-ylws5h
+	jjv1u0z.nvvnsl.jvt8a9gegceaf88da.jvt@gaia.bounces.google.com; dkim=pas
+	s header.i=@accounts.google.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvj4RQvtXDUUUU
+Sender: 3gl1evggtcwcuv-ylws5hjjv1u0z.nvvnsl.jvt8a9gegceaf88da.jvt@gaia.bounces.google.com
+
+” º˛Œ¥œ¬‘ÿ.

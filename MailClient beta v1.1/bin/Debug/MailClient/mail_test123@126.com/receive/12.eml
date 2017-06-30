@@ -1,0 +1,39 @@
++OK 1599 octets
+Received: from m12-16.163.com (unknown [220.181.12.16])
+	by mx1 (Coremail) with SMTP id H8mowABHo9k+8jpY7FoIAQ--.20122S2;
+	Sun, 27 Nov 2016 22:48:30 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=From:Subject:Mime-Version:Message-Id:Date; bh=Nh6JN
+	7B8qj8EOXZhNpuBamnu0VvBLcFLwcRkROs7dsw=; b=ZJgIFPnQz+dF0hMmBAOUw
+	eNZ9EhYARTSX6nsDThEo0y5ArQR+7ly6tfFdmr3HUTtfvySuue5SkkVBgrrYa5YL
+	2C593jxJQCXXQ9wYVZ6uOSio/o9qcCy9leVQRE52cmwaDrGPdnF15pgyndQdxr0L
+	LLJ1BtsCtBvP/3GWt7VDAg=
+Received: from hello (unknown [222.20.101.100])
+	by smtp12 (Coremail) with SMTP id EMCowAAHBtM88jpYkYQeEQ--.20462S2;
+	Sun, 27 Nov 2016 22:48:29 +0800 (CST)
+From:13297957381@163.com
+To:mail_test123@126.com
+Cc:
+Subject:=?utf-8?B?5rWL6K+V6YKu5Lu277yM5peg6ZyA5Y+R6YCB?=
+Mime-Version:1.0
+Content-type:multipart/mixed;boundary="37fee23e-49a3-41d8-8c53-47e15bb20afd";
+Content-Transfer-Encoding:8bit
+This is a multi-part message in MIME format
+X-CM-TRANSID:EMCowAAHBtM88jpYkYQeEQ--.20462S2
+Message-Id:<583AF23E.8CC257.25111@m12-16.163.com>
+X-Originating-IP: [222.20.101.100]
+Date: Sun, 27 Nov 2016 22:48:30 +0800 (CST)
+X-CM-SenderInfo: rprtjmyxzvljiyr6il2tof0z/1tbisR4voFXlWAhKpwAAst
+Authentication-Results: mx1; spf=pass smtp.mail=13297957381@163.com; d
+	kim=pass header.i=@163.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7jjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUfwZ2UUUUU
+
+--37fee23e-49a3-41d8-8c53-47e15bb20afd
+Content-type:text/plain;charset=gb2312
+Content-Transfer-Encoding:base64
+
+suLK1NPKvP6jrM7e0Oi3osvN
+
+
+.

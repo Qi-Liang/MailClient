@@ -1,0 +1,79 @@
++OK 4217 octets
+Received: from mail.integritytech.com.cn (unknown [123.59.80.62])
+	by mx10 (Coremail) with SMTP id KMmowED540pFjPlV5p_bBA--.14045S3;
+	Wed, 16 Sep 2015 23:35:34 +0800 (CST)
+Received: from mail.integritytech.com.cn (localhost [127.0.0.1])
+	by mail.integritytech.com.cn (Postfix) with ESMTPS id EDECA12A4EF
+	for <evil_hk@126.com>; Wed, 16 Sep 2015 23:35:32 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.integritytech.com.cn (Postfix) with ESMTP id DF60712A4F0
+	for <evil_hk@126.com>; Wed, 16 Sep 2015 23:35:32 +0800 (CST)
+Received: from mail.integritytech.com.cn ([127.0.0.1])
+	by localhost (mail.integritytech.com.cn [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id RXdKMInUN6xX for <evil_hk@126.com>;
+	Wed, 16 Sep 2015 23:35:32 +0800 (CST)
+Received: from www.ichunqiu.com (unknown [120.132.66.2])
+	by mail.integritytech.com.cn (Postfix) with ESMTPSA id CB2FC12A4EF
+	for <evil_hk@126.com>; Wed, 16 Sep 2015 23:35:32 +0800 (CST)
+User-Agent: CodeIgniter
+Date: Wed, 16 Sep 2015 23:35:32 +0800
+From: =?utf-8?Q?=69=E6=98=A5=E7=A7=8B=E5=AD=A6=E9=99=A2?= <service@ichunqiu.com>
+To: evil_hk@126.com
+Subject: =?utf-8?Q?=E8=B4=A6=E5=8F=B7=E6=BF=80=E6=B4=BB?=
+Reply-To: "service@ichunqiu.com" <service@ichunqiu.com>
+X-Sender: service@ichunqiu.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <55f98c449afca@ichunqiu.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_55f98c449b033"
+X-CM-TRANSID:KMmowED540pFjPlV5p_bBA--.14045S3
+Authentication-Results: mx10; spf=none smtp.mail=service@ichunqiu.com;
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvj4RGE_MUUUUU
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_55f98c449b033
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=E4=BA=B2=E7=88=B1=E7=9A=84=E6=BC=A0=E6=B2=B3=E4=BB=A5=E5=8C=97=EF=BC=9A&=
+nbsp;&nbsp;&nbsp;&nbsp;=E6=84=9F=E8=B0=A2=E6=B3=A8=E5=86=8Ci=E6=98=A5=E7=A7=
+=8B=E5=AD=A6=E9=99=A2=E4=BF=A1=E6=81=AF=E5=AE=89=E5=85=A8=E4=BD=93=E9=AA=8C=
+=E4=B8=AD=E5=BF=83=EF=BC=8C=E5=BC=80=E5=A7=8B=E5=A5=94=E5=90=91=E7=99=BD=E5=
+=B8=BD=E9=BB=91=E4=BE=A0=E4=B9=8B=E8=B7=AF=E5=90=A7=EF=BC=81~&nbsp;&nbsp;=
+&nbsp;&nbsp;=E8=AF=B7=E7=82=B9=E5=87=BB=E4=BB=A5=E4=B8=8B=E9=93=BE=E6=8E=A5=
+=E6=BF=80=E6=B4=BB=E6=82=A8=E7=9A=84=E8=B4=A6=E5=8F=B7=EF=BC=8C=E4=BB=8E=E6=
+=AD=A4=E8=B5=B0=E5=90=91=E6=98=9F=E8=BE=B0=E5=A4=A7=E6=B5=B7~&nbsp;&nbsp;=
+&nbsp;&nbsp;=E7=82=B9=E5=87=BB=E9=93=BE=E6=8E=A5&nbsp;&nbsp;
+&nbsp;&nbsp;=E5=A6=82=E6=9E=9C=E6=82=A8=E4=B8=8D=E8=83=BD=E5=9C=A8=E9=82=AE=
+=E4=BB=B6=E4=B8=AD=E7=9B=B4=E6=8E=A5=E6=89=93=E5=BC=80=EF=BC=8C=E8=AF=B7=E5=
+=A4=8D=E5=88=B6=E8=AF=A5=E9=93=BE=E6=8E=A5=E5=88=B0=E6=B5=8F=E8=A7=88=E5=99=
+=A8=E5=9C=B0=E5=9D=80=E6=A0=8F=E6=89=93=E5=BC=80=EF=BC=9A
+http://www.ichunqiu.com/register/verifyEmail/e82b9389909eb033edc03d19e879=
+183a/1442417732&nbsp;&nbsp;&nbsp;&nbsp;=E6=9C=AC=E9=82=AE=E4=BB=B6=E4=B8=BA=
+=E7=B3=BB=E7=BB=9F=E8=87=AA=E5=8A=A8=E5=8F=91=E9=80=81=EF=BC=8C=E8=AF=B7=E5=
+=8B=BF=E5=9B=9E=E5=A4=8D=E3=80=82
+
+
+--B_ALT_55f98c449b033
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family: '????????????','Microsoft YaHei';font-size: 14px=
+;line-height:25px;"><img src=3D"http://static2.ichunqiu.com/icq/resources/i=
+mages/logo2v201505251442.png"/><br>????????????????????????<br/>&nbsp;&nbsp=
+;&nbsp;&nbsp;????????????i?????????????????????????????????????????????????=
+??????????????????????????~<br/>&nbsp;&nbsp;&nbsp;&nbsp;???????????????????=
+???????????????????????????????????????????????~<br/>&nbsp;&nbsp;&nbsp;&nbs=
+p;<a target=3D'_blank' href=3Dhttp://www.ichunqiu.com/register/verifyEmail/=
+e82b9389909eb033edc03d19e879183a/1442417732>????????????</a>&nbsp;&nbsp;&nb=
+sp;&nbsp;??????????????????????????????????????????????????????????????????=
+???????????????????????? http://www.ichunqiu.com/register/verifyEmail/e82b9=
+389909eb033edc03d19e879183a/1442417732<br/>&nbsp;&nbsp;&nbsp;&nbsp;????????=
+????????????????????????????????????????</div>
+
+--B_ALT_55f98c449b033--
+.

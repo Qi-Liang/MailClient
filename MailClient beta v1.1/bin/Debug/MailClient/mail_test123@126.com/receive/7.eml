@@ -1,0 +1,57 @@
++OK 2731 octets
+Received: from m13-124.163.com (unknown [220.181.13.124])
+	by mx17 (Coremail) with SMTP id xcmowAAHMF2DhCFYOGI+AQ--.22701S2;
+	Tue, 08 Nov 2016 15:53:39 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=/YIg1
+	N0qpqamP8RUnzZ6GePyOPDd8QpLgeiQdQOkjQk=; b=krcdBHXpP38G9G9bO3oYT
+	G7n8LZUCyySrgULv+Ojd7HSQHRewobl5cq+5x732kplwOOypEM77LafzoF4xVVV4
+	tNlEZeqPhuHB4N4CnV5oMZZIekpx1MKhqL9WEnQNfbd8Q0kIaKvDykUQEHAtNRS6
+	8zzZGwJ0benZmycx+UmiSY=
+Received: from 18162316855$163.com ( [115.156.193.28] ) by
+ ajax-webmail-wmsvr124 (Coremail) ; Tue, 8 Nov 2016 15:53:37 +0800 (CST)
+X-Originating-IP: [115.156.193.28]
+Date: Tue, 8 Nov 2016 15:53:37 +0800 (CST)
+From: 18162316855 <18162316855@163.com>
+To: 2998358286@qq.com
+Cc: mail_test123@126.com
+Subject: =?GBK?B?s63LzcPcy82y4srU?=
+X-Priority: 3
+X-Mailer: Coremail Webmail Server Version SP_ntes V3.5 build
+ 20160729(86883.8884) Copyright (c) 2002-2016 www.mailtech.cn 163com
+X-CM-CTRLDATA: 9VjP9WZvb3Rlcl9odG09MTU4OjM5MQ==
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_118714_431517125.1478591617860"
+MIME-Version: 1.0
+Message-ID: <1485d77c.7c0d.15842ed9b44.Coremail.18162316855@163.com>
+X-Coremail-Locale: zh_CN
+X-CM-TRANSID:fMGowEDJL0GDhCFYf7ZQAA--.138W
+X-CM-SenderInfo: jpryilastrlmivv6il2tof0z/1tbiEQ4ctVWBX2GuyAACs4
+Authentication-Results: mx17; spf=pass smtp.mail=18162316855@163.com; 
+	dkim=pass header.i=@163.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7jjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUSMmhUUUUU
+
+------=_Part_118714_431517125.1478591617860
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: base64
+
+s63LzcPcy82y4srU
+------=_Part_118714_431517125.1478591617860
+Content-Type: text/html; charset=GBK
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0ibGluZS1oZWlnaHQ6MS43O2NvbG9yOiMwMDAwMDA7Zm9udC1zaXplOjE0cHg7
+Zm9udC1mYW1pbHk6QXJpYWwiPjxkaXY+PGZvbnQgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IHJn
+YigyNTUsIDI1NSwgMjU1KTsiPrOty83D3MvNsuLK1DwvZm9udD48L2Rpdj48L2Rpdj48YnI+PGJy
+PjxzcGFuIHRpdGxlPSJuZXRlYXNlZm9vdGVyIj48ZGl2IGlkPSJuZXRlYXNlX21haWxfZm9vdGVy
+Ij48ZGl2IHN0eWxlPSJib3JkZXItdG9wOiNDQ0MgMXB4IHNvbGlkO3BhZGRpbmc6MTBweCA1cHg7
+Zm9udC1zaXplOjE1cHg7Y29sb3I6Izc3NztsaW5lLWhlaWdodDoyMnB4Ij48YSBocmVmPSJodHRw
+Oi8veW91LjE2My5jb20vaXRlbS9saXN0P2NhdGVnb3J5SWQ9MTAxMDAwMCZmcm9tPXdlYl9nZ19t
+YWlsX2ppYW9iaWFvXzIiIHRhcmdldD0iX2JsYW5rIiBzdHlsZT0iY29sb3I6IzMzNjZGRjt0ZXh0
+LWRlY29yYXRpb246bm9uZSI+ob7N+NLX19TTqnwzMMzszt7Tx83Lu/Whv7Citc+078u5tcjWxtTs
+yczWsbmptPK119LCzu+jrM/eyrEyOdSqxvAmZ3Q7Jmd0OzwvYT4KICZuYnNwOyAmbmJzcDs8L2Rp
+dj48L2Rpdj48L3NwYW4+
+------=_Part_118714_431517125.1478591617860--
+
+.

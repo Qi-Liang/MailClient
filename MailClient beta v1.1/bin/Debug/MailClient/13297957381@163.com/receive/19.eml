@@ -1,0 +1,42 @@
++OK 13301 octets
+Received: from smtpbg15.qq.com (unknown [183.60.61.204])
+	by mx40 (Coremail) with SMTP id WsCowAAnUlAUfiFYXytSBg--.20633S3;
+	Tue, 08 Nov 2016 15:26:13 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qq.com; s=s201512;
+	t=1478589972; bh=H4gjIEE7IC0UGRcs+WtGuQEENMzInlzUcwY84tOjCus=;
+	h=From:To:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID;
+	b=vPtyGOqCHDsyHOir52eAgnNPFS44T7Ef7kam8PEJanKc4ingumEQ4DgKNtAgnhUUJ
+	 1rCrLdTFY37bJc1E7eWmS7s7H5d7HQbiV3+pZ1WFKPtJ92mFksgBxJGaKOdBsBApUg
+	 PSWyoe4dNy/lnrBxZSB3UrIl2Q2MNVI13UX0Dy8Q=
+X-QQ-FEAT: uQ7zd54tkGzQHC4bIgzJF3yDKdC4TrtwIVFGNupjMnrIjhWA1iKvbfHOD8CvW
+	AfixcgcJOE8FE43kwgy+ernq0i1hQFCVzCfTCQ7aTcNLPnNwIIcjm7yJDnrDByxVmMZRjLa
+	H2Li0Mw8rDUmTCnQEQcBqE7OVPcgwYAAxht0pyfW+u+ADKRB6rvWouMWPzgovNkrtNQ5X8u
+	vGH58OqbmU0SsN+jZbUxbRsOWUAFLs8nA54CuIZpWEQ==
+X-QQ-SSF: 000000000000000000000000000000Z
+X-HAS-ATTACH: no
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 115.156.211.196
+X-QQ-STYLE: 
+X-QQ-mid: webmail239t1478589971t8553561
+From: "=?gb18030?B?x9LM/bfn0vc=?=" <2998358286@qq.com>
+To: "=?gb18030?B?MTMyOTc5NTczODE=?=" <13297957381@163.com>
+Subject: =?gb18030?B?suLK1NPKvP4=?=
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_58217E13_0A5A9DF0_26DE9CA2"
+Content-Transfer-Encoding: 8Bit
+Date: Tue, 8 Nov 2016 15:26:11 +0800
+X-Priority: 3
+Message-ID: <tencent_345D9ED53B808D895EE11F1C@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-SENDSIZE: 520
+Feedback-ID: webmail:qq.com:bgweb:bgweb13
+X-CM-TRANSID:WsCowAAnUlAUfiFYXytSBg--.20633S3
+Authentication-Results: mx40; spf=pass smtp.mail=2998358286@qq.com; dk
+	im=pass header.i=@qq.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUqTqcUUUUU
+
+” º˛Œ¥œ¬‘ÿ.

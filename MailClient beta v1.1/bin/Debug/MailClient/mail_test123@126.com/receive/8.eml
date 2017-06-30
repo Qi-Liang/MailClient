@@ -1,0 +1,60 @@
++OK 2217 octets
+Received: from smtpbg123.qq.com (unknown [183.60.2.34])
+	by mx28 (Coremail) with SMTP id ysmowAAX9NXXbzRYvyXXAA--.65221S3;
+	Wed, 23 Nov 2016 00:18:31 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qq.com; s=s201512;
+	t=1479831511; bh=Ju1H5ntimIdZTAdSB213SvrUHoXL4yYfPsezT6ITR14=;
+	h=From:To:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID;
+	b=DwvZHbSDXg4qilWFm50HTTwraaPptBoZu/1DZ/X2ZzvSzp0zBK8x8tAq17dnhdm46
+	 JZRHq5uCB9CFE4KJrGJaotuoNfRL0jeudEVKr8vXIU1voLTEneVYT35Un48Q3gUID3
+	 lWnz9NEDVk/6VWGpUES3JiaKHXifyRylvwpZP1LE=
+X-QQ-FEAT: NBHblY+TSr45btIFml6ztcdDoiv4SGQ6vM1b8qTSexfSTxGa7t++yzr/MxI6z
+	/8VOcFkB6/7HG5ife5302FxZ02jE4KOtyHJXWFOUj3CxZps7YzCW5ZdIGV2irnzn0dbu8Eg
+	CvHxZVabfLiY0p7qJ0S9zaGgOXUVZ5ft8WudI2APDMqR4vubso3pmN+Dtv85z1LnH7ocZbH
+	EZukangf0CEpJ0wIaSDc65XOR8MOB3xo=
+X-QQ-SSF: 000100000000000000000000000000N
+X-HAS-ATTACH: no
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 114.117.99.112
+X-QQ-STYLE: 
+X-QQ-mid: webmail1104t1479831510t894246
+From: "=?ISO-8859-1?B?dHR5?=" <798254365@qq.com>
+To: "=?ISO-8859-1?B?bWFpbF90ZXN0MTIz?=" <mail_test123@126.com>
+Subject: mail receive
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_58346FD6_0B018A18_1883C66F"
+Content-Transfer-Encoding: 8Bit
+Date: Wed, 23 Nov 2016 00:18:30 +0800
+X-Priority: 3
+Message-ID: <tencent_68E891D168BE991845CE0763@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-SENDSIZE: 520
+Feedback-ID: webmail:qq.com:bgweb:bgweb21
+X-CM-TRANSID:ysmowAAX9NXXbzRYvyXXAA--.65221S3
+Authentication-Results: mx28; spf=pass smtp.mail=798254365@qq.com; dki
+	m=pass header.i=@qq.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxU6iFxUUUUU
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_58346FD6_0B018A18_1883C66F
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+
+
+------=_NextPart_58346FD6_0B018A18_1883C66F
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+PGRpdj48YnI+PC9kaXY+
+
+------=_NextPart_58346FD6_0B018A18_1883C66F--
+
+.

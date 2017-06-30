@@ -1,0 +1,53 @@
++OK 5433 octets
+Received: from mail-pg0-f68.google.com (unknown [74.125.83.68])
+	by mx42 (Coremail) with SMTP id XMCowAAHa6ngpDlYMEgNAg--.51400S4;
+	Sat, 26 Nov 2016 23:06:44 +0800 (CST)
+Received: by mail-pg0-f68.google.com with SMTP id 3so8252766pgd.0
+        for <13297957381@163.com>; Sat, 26 Nov 2016 07:06:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:mime-version:to:from:subject:date:importance;
+        bh=NezZe7LCjunubPwCG9gdDzkP9cuv28EXoYiiCg6kjfQ=;
+        b=COGsWJfGUmkl12SRx8/iHdInwlICXf9g8RBViDPvl6IAiLj5z6BgDTNV6wQBV8seKD
+         zmlWxTofAWsdrcBKMofk8F7qalJCKd1dDhGK/NfjhabJlmsHr/yX4dhghaCY2KD9f4vt
+         CQkQqO3dJ1SFWXgepM42X3lNO+MRCQcDu8Wf+8/R+PidrRjbC90gwS2vxZYDuv3e7aKR
+         t0E/IICGhOig7T4uqgKQMGqGV6GsIMVsrROQJv8NYc+eGcnT3pB2NmjbatcLUhjRjm/X
+         vbfEmGez3140WF11rfQ01xwlcJFaXzv/mIwursuRcumRHe6GYqrcjLom/iea6KLnUnhh
+         Av5A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :importance;
+        bh=NezZe7LCjunubPwCG9gdDzkP9cuv28EXoYiiCg6kjfQ=;
+        b=SulUewIOrIDRTNFnj7NhvwU5zP5Ut9xk868ep89UYVq3a4F0dVH8TvuZsfIjYblicQ
+         h1PUasitZEVsRhQhjBIYXp4fOKqxsh0IIOIyRbys2bK2xmn3VNRsdHEyDFUfR95AqUX5
+         Hui8OqNFtFUSMHC/30c/fQgG1V3lYPxRVn7AyTlpmbZZbg493EUDPmJwQnTs3/TEvN9M
+         PKhg5Of+fyiIPAdQNJSzjDJabmkRMjilYtWFLtSD8SpJP3u1IA8sW1HXLXUiPIkWKnyf
+         ElUMJ2u+Tovd9i7bgotfzwipQkYKSqk//hEHszvREawLqjmc9nebXwR4YConQD34MfMn
+         JWnw==
+X-Gm-Message-State: AKaTC02H3ynF/4S2VcjQPAegqdmt7UX5TRQuSE8EBfr35nVj2MUKfnKonmekzsw0ehz4Jw==
+X-Received: by 10.99.192.69 with SMTP id z5mr23866264pgi.169.1480172804206;
+        Sat, 26 Nov 2016 07:06:44 -0800 (PST)
+Return-Path: <zhaohuanghust@gmail.com>
+Received: from ?IPv6:2001:250:4000:8138:f1d9:817:c783:dd61? ([2001:250:4000:8138:f1d9:817:c783:dd61])
+        by smtp.gmail.com with ESMTPSA id t67sm75577368pfg.13.2016.11.26.07.06.42
+        for <13297957381@163.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 26 Nov 2016 07:06:43 -0800 (PST)
+Message-ID: <5839a503.46dc620a.b609a.8d6c@mx.google.com>
+MIME-Version: 1.0
+To: zhao_huang <13297957381@163.com>
+From: <zhaohuanghust@gmail.com>
+Subject: test
+Date: Sat, 26 Nov 2016 23:06:02 +0800
+Importance: normal
+X-Priority: 3
+Content-Type: multipart/alternative;
+	boundary="_D73E9255-EB28-4ACC-9254-59D8D1EC2842_"
+X-CM-TRANSID:XMCowAAHa6ngpDlYMEgNAg--.51400S4
+Authentication-Results: mx42; spf=pass smtp.mail=zhaohuanghust@gmail.c
+	om; dkim=pass header.i=@gmail.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxU8xRDUUUUU
+
+” º˛Œ¥œ¬‘ÿ.

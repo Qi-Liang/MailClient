@@ -1,0 +1,64 @@
++OK 7985 octets
+Received: from BAY004-OMC2S15.hotmail.com (unknown [65.54.190.90])
+	by mx24 (Coremail) with SMTP id SsCowEC5O1BufDlYzaMIAg--.33119S2;
+	Sat, 26 Nov 2016 20:13:34 +0800 (CST)
+Received: from NAM02-BL2-obe.outbound.protection.outlook.com ([65.54.190.124]) by BAY004-OMC2S15.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Sat, 26 Nov 2016 04:13:32 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=sD2Tfjmp999+N5Qp1oTkvNAQPaqi8VSxNVcNUmUj6iM=;
+ b=Ue5UaALCGgIvcA3BWb8Xbn0ZceI6eeUsqZKretNxCPWXr/ugep10mNxhBcN3gIENOiTtAORUz9oDUz0WaXfwVqMMpfCY79HPACcMk7Mt/lTYaNiV6hNuCVkS/m3OtF9tndnZKefQrfRwcyGbB8lm8sAiZB528jAA0zTxkoDU+l+IncxfI8BSzK6ylWdlQkrmXgCKOUXj6UfAgUbs+irk6M2C9YvsFR1OhH2hOJKOgJ540CUB0cpKtFy/GKWJwIIDFZn5BjrX/k0lrOYyOpFftCYg742Isq7SRH2S7QLTOVbvY5nxFlOiUN8O3fjZgi7CymR9TqyoHaTUDESispSuGg==
+Received: from BL2NAM02FT030.eop-nam02.prod.protection.outlook.com
+ (10.152.76.51) by BL2NAM02HT200.eop-nam02.prod.protection.outlook.com
+ (10.152.76.119) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.734.4; Sat, 26 Nov
+ 2016 12:13:31 +0000
+Received: from MWHPR02MB2207.namprd02.prod.outlook.com (10.152.76.51) by
+ BL2NAM02FT030.mail.protection.outlook.com (10.152.77.172) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.734.4 via Frontend Transport; Sat, 26 Nov 2016 12:13:31 +0000
+Received: from MWHPR02MB2207.namprd02.prod.outlook.com ([10.168.243.13]) by
+ MWHPR02MB2207.namprd02.prod.outlook.com ([10.168.243.13]) with mapi id
+ 15.01.0747.013; Sat, 26 Nov 2016 12:13:30 +0000
+From: huang zhao <zhao_h@outlook.com>
+To: zhao huang <13297957381@163.com>
+Subject: =?utf-8?B?5rWL6K+V6YKu5Lu2?=
+Thread-Topic: =?utf-8?B?5rWL6K+V6YKu5Lu2?=
+Thread-Index: AQHSR96A5g05lVyH4ESHlcQd4JCvIQ==
+Date: Sat, 26 Nov 2016 12:13:30 +0000
+Message-ID: <MWHPR02MB2207C1EE40C34E1BE41E4A30F7880@MWHPR02MB2207.namprd02.prod.outlook.com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:;UpperCasedChecksum:;SizeAsReceived:7205;Count:37
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [nVixcOzUX1kz1x2RF054CYy19vl/rgGq]
+x-incomingheadercount: 37
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;BL2NAM02HT200;5:cDaiup3I+6v74dPwoF4UStbjLyOC+RRsq25s/aLw3iUx5plIEvlL7vXg2ES3aPXyFVmzcChfhXh0IlD0hgBiTGAoAOqZWSLJhex8GInCrtmGhSzLlELTR0HQPgvrvoQal9TYb96nGhSlDujOYNH2nB17oFBZrP65VtkKEB0Lu2U=;24:4Fz3tMAU+vIODV1EPiH4LN5+TvuszOdeyo6HPLTgxGP2ChIbQUiyO0EjhZvJEfar73kPE6TC7YmWZ+Y2StJwHKlnVsrxxlRYIRt6OK3SRG8=;7:oHK4j2r4W4oDw9BXCpr7fPkEN+naRJ7GsF42rcw+XQ7Wr8XOIQUL7UP3N0KO4A8xG2rfQjG3o8O5LnJA1nfrNRiS4Fb8bsL/6RL+bstt4jpDlcuGgMp8HFyHb3knJBX3yh5hbfHJhVPDvFpqeOlE0JWIJxQGEDqkv0Zi1Km+P0qBWG5sI5MLwQIUfTqK2IXIqULWOhZbxncIV+Bp+KtnyswI5bslfJkdleb0SUJmm+dQWNj/a7jJcPrwBTkUFY4LItUmzNmeUTjS5C/OR9dfCwdD8Usk+kN46Bri9RVaEU8ihxm2V9wPeMIge7DgDr8P8xr0xSSkPRKbnjGtpQl2wTSuqg870tyZ9tD8RvJUDFw=
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900003);DIR:OUT;SFP:1102;SCL:1;SRVR:BL2NAM02HT200;H:MWHPR02MB2207.namprd02.prod.outlook.com;FPR:;SPF:None;LANG:zh-cn;
+x-ms-office365-filtering-correlation-id: 3ee7751e-b31d-4f07-5d82-08d415f5a2b8
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(1601124038)(1603103113)(1603101340)(1601125047);SRVR:BL2NAM02HT200;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015012)(82015046);SRVR:BL2NAM02HT200;BCL:0;PCL:0;RULEID:;SRVR:BL2NAM02HT200;
+x-forefront-prvs: 0138CD935C
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MWHPR02MB2207C1EE40C34E1BE41E4A30F7880MWHPR02MB2207namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 26 Nov 2016 12:13:30.6414
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2NAM02HT200
+Return-Path: zhao_h@outlook.com
+X-OriginalArrivalTime: 26 Nov 2016 12:13:32.0771 (UTC) FILETIME=[8179A330:01D247DE]
+X-CM-TRANSID:SsCowEC5O1BufDlYzaMIAg--.33119S2
+Authentication-Results: mx24; spf=pass smtp.mail=zhao_h@outlook.com; d
+	kim=pass header.i=@outlook.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUhXdbUUUUU
+
+” º˛Œ¥œ¬‘ÿ.

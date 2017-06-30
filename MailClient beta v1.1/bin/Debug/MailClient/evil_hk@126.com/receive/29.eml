@@ -1,0 +1,26 @@
++OK 956 octets
+Received: from hello (unknown [222.20.101.100])
+	by smtp1 (Coremail) with SMTP id C8mowACHRhPwpR5YUKO1BQ--.4776S2;
+	Sun, 06 Nov 2016 11:39:29 +0800 (CST)
+To:evil_hk@126.com
+From:mail_test123@126.com
+Subject:=?utf-8?B?5rWL6K+V6YKu5Lu2?=
+Mime-Version:1.0
+Content-type:multipart/mixed;boundary="47f52e91-9b2e-49e5-ade3-8d28b508785d";
+Content-Transfer-Encoding:7bit
+This is a multi-part message in MIME format
+X-CM-TRANSID:C8mowACHRhPwpR5YUKO1BQ--.4776S2
+Message-Id:<581EA5F2.947D48.04293@m15-111.126.com>
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUBtrcDUUUU
+X-Originating-IP: [222.20.101.100]
+Date: Sun, 6 Nov 2016 11:39:30 +0800 (CST)
+X-CM-SenderInfo: xpdlzsxwhv3iist6ij2wof0z/1tbiHQEaeVUw4gjWngABs5
+
+--47f52e91-9b2e-49e5-ade3-8d28b508785d
+Content-type:text/plain;charset=gb2312
+Content-Transfer-Encoding:base64
+
+1eLKx9K7t+Ky4srU08q8/qOszt7Q6LvYuLShow==
+
+.

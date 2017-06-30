@@ -1,0 +1,40 @@
++OK 14507 octets
+Received: from mail-qg0-f72.google.com (unknown [209.85.192.72])
+	by mx43 (Coremail) with SMTP id XcCowECJaVwqtLNUz_vjBw--.254S5;
+	Mon, 12 Jan 2015 19:47:14 +0800 (CST)
+Received: by mail-qg0-f72.google.com with SMTP id l89so58103881qgf.3
+        for <13297957381@163.com>; Mon, 12 Jan 2015 03:47:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20120806;
+        h=mime-version:feedback-id:date:message-id:subject:from:to
+         :content-type;
+        bh=aT4j0orAIKs7eWGfaNjox/mbOR9++CPISP6zyKCOoNM=;
+        b=FYXNrOGhXuDQ0JpMYHcyb2iaSBmIZJdcQpC41NvRAJQVTgSzpS6kVCVp1Li3btI3YX
+         cQn03vAiCy9FUT5o6nP3KLrOFxUHkXupqF2c14h4k0NUgvqBVJOR+DUTZ7+990/O0/cG
+         mRoWxtgIWooAfNt2Lc3avOuFLEZwb+zL7Nv7lRGb8HzBI6mDI+hUxiVlYy14v/RIKsYP
+         wjWspqMWwFp38vr5UTnLDB7Y3TAY0hiWS8/RdVrKQfTo9ZOSFe23vg6bqCt8W8jIKaSf
+         Gv7bTVqeOilSvLh8J7TK/D4XQl8cWb2M38OvmET1qgqWIYWmZeh2FDarQqyppr6LXiG2
+         7M7w==
+MIME-Version: 1.0
+X-Received: by 10.236.70.100 with SMTP id o64mr17428457yhd.9.1421063232582;
+ Mon, 12 Jan 2015 03:47:12 -0800 (PST)
+X-Notifications: XEAAAAHrtxSj4FWXBdiDaU_qNeqQ
+X-Account-Notification-Type: ALTERNATE_EMAIL_ADD
+Feedback-ID: ALTERNATE_EMAIL_ADD:account-notifier
+Date: Mon, 12 Jan 2015 11:46:55 +0000 (UTC)
+Message-ID: <7sTnBWoCThXpVECYucZubg@notifications.google.com>
+Subject: =?GB2312?B?R29vZ2xlINXKu6e159fT08q8/si3yM8=?=
+From: Google <no-reply@accounts.google.com>
+To: 13297957381@163.com
+Content-Type: multipart/mixed; boundary=001a11c1dfae2e73d6050c7311c8
+X-CM-TRANSID:XcCowECJaVwqtLNUz_vjBw--.254S5
+Authentication-Results: mx43; spf=pass smtp.mail=3qlszvagtcymmn-qdokx9
+	bbntmsr.fnnfkd.bnlacbigiegchaafc.bnl@gaia.bounces.google.com; dkim=pas
+	s header.i=@accounts.google.com
+X-Coremail-Antispam: 1Uf129KBjvdXoWrZFW7CF43XrykAr1UuF15Arb_yoW3KwbE9w
+	srX3srJFW3Ca17Xr4kGrn8uF4vqF90yayYvFWSgay2qF4kJrsrAFWkCw42qwn2yw4Yqr1U
+	J3sF9r1qgr4rtjkaLaAFLSUrUUUUUb8apTn2vfkv8UJUUUU8Yxn0WfASr-VFAUDa7-sFnT
+	9fnUUvcSsGvfC2KfnxnUUI43ZEXa7IU0ylk3UUUUU==
+Sender: 3qlszvagtcymmn-qdokx9bbntmsr.fnnfkd.bnlacbigiegchaafc.bnl@gaia.bounces.google.com
+
+” º˛Œ¥œ¬‘ÿ.

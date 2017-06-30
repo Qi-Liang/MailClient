@@ -1,0 +1,49 @@
++OK 3163 octets
+Received: from mail-ig0-f182.google.com (unknown [209.85.213.182])
+	by mx42 (Coremail) with SMTP id XMCowECJJWMGV4hU2I4MAA--.398S3;
+	Wed, 10 Dec 2014 22:21:59 +0800 (CST)
+Received: by mail-ig0-f182.google.com with SMTP id hn15so2942744igb.15
+        for <13297957381@163.com>; Wed, 10 Dec 2014 06:21:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:date:message-id:to:subject;
+        bh=fs/tOk3SjLM4qfJ+/2351i/MESjd2fN11vaJApS9rfI=;
+        b=zCV4VINWsSCxiJU2jeozTByfW+fwXoEBgXNyKc7phuXwFoodaUPWqn6OSrF2+dj9o6
+         +0sFNyUmI0cJgEGLrJPv8QY5SOyiIG00Xk5ZIjbUXRgug+Mkv7BobOnjjQzARGJcwdxr
+         +HcNdQfIminT5IC/Bt4g2T8mbO9+VC1Bn8LKqJ4HPusz3Hen0BfRHbUoV0K85ryX+yi3
+         QzW8DYP3CuV43ygRvh/ZHQSraUN4NRKM+3gfFw+gvm8P5bTgnngV+tZDk6es8jZU+gjD
+         KWvtwx6Ak1CQ3U23igeFiyiE25j0+nngZQS4UWE/2j5J9I6O9a7S9bn9pzfBEmjWGTqa
+         HKqw==
+X-Received: by 10.43.148.74 with SMTP id kf10mr7122855icc.9.1418221317775;
+        Wed, 10 Dec 2014 06:21:57 -0800 (PST)
+Return-Path: <rob.kolstad@gmail.com>
+Received: from newace.DELOSENT.COM (71-34-156-2.clsp.qwest.net. [71.34.156.2])
+        by mx.google.com with ESMTPSA id rp3sm2724472igb.1.2014.12.10.06.21.56
+        for <13297957381@163.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 10 Dec 2014 06:21:57 -0800 (PST)
+From: WWW-server <rob.kolstad@gmail.com>
+X-Google-Original-From: WWW-server <wwwcontest@ace.delosent.com>
+Received: from ace.delosent.com (ace.DELOSENT.COM [192.65.171.163])
+	by newace.DELOSENT.COM (8.14.4/8.14.4/Debian-4.1ubuntu1) with ESMTP id sBAELrbs018425
+	(version=TLSv1/SSLv3 cipher=DHE-DSS-AES256-SHA bits=256 verify=NOT)
+	for <13297957381@163.com>; Wed, 10 Dec 2014 07:21:54 -0700
+Received: from ace.delosent.com (localhost [127.0.0.1])
+	by ace.delosent.com (8.13.8/8.13.8) with ESMTP id sBAELrUB093178
+	for <13297957381@163.com>; Wed, 10 Dec 2014 07:21:53 -0700 (MST)
+	(envelope-from wwwcontest@ace.delosent.com)
+Received: (from wwwcontest@localhost)
+	by ace.delosent.com (8.13.8/8.13.8/Submit) id sBAELrYV093177
+	for 13297957381@163.com; Wed, 10 Dec 2014 07:21:53 -0700 (MST)
+	(envelope-from wwwcontest)
+Date: Wed, 10 Dec 2014 07:21:53 -0700 (MST)
+Message-Id: <201412101421.sBAELrYV093177@ace.delosent.com>
+To: 13297957381@163.com
+Subject: USACO Training Registration Info with Password
+X-CM-TRANSID:XMCowECJJWMGV4hU2I4MAA--.398S3
+Authentication-Results: mx42; spf=pass smtp.mail=rob.kolstad@gmail.com
+	; dkim=pass header.i=@gmail.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUetx6UUUUU
+
+” º˛Œ¥œ¬‘ÿ.

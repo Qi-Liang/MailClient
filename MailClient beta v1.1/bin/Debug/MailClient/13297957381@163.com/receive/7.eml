@@ -1,0 +1,38 @@
++OK 26920 octets
+Received: from mail-vk0-f72.google.com (unknown [209.85.213.72])
+	by mx42 (Coremail) with SMTP id XMCowECpEkR2Sf5VGOymAw--.22799S3;
+	Sun, 20 Sep 2015 13:52:16 +0800 (CST)
+Received: by mail-vk0-f72.google.com with SMTP id p126so133337261vkf.3
+        for <13297957381@163.com>; Sat, 19 Sep 2015 22:52:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20120806;
+        h=mime-version:feedback-id:date:message-id:subject:from:to
+         :content-type;
+        bh=eh7FpUnE8hUS+U8DZuRfccQqJkTVNTiUIv3WtJp5vcc=;
+        b=FxzRDx3SzJSeGITjsAxUEdQ3wqsUxrvW+HOZrA9U4IGlIUhSfmtH+FaK+9mwybCzWi
+         GfcFlpVoygbLnNZxqUxSznF/71VAZlaire38yGxCE7xJ8sbYiMqCY0rIeIwpFMQ/5GJz
+         84FFV4cYHdDfanxkdQn+FOkzdkln3a4lUTY71dCAF+IDYz8g95qd9qYMkaBu0YJs9rqC
+         pdcFjpqFqIZbGyhNjpIGei5TSHgXQr6EJ1itn86YA4f82gfYI1f7SelwzfXZbjp79CTQ
+         7qtUtnozdK5WnxUzquyVtGVMiHdgxmFpoALJ01Z4YpmN9CqNyS//cmX015jPOwy/H0ho
+         j09w==
+MIME-Version: 1.0
+X-Received: by 10.129.40.83 with SMTP id o80mr11368881ywo.27.1442728336067;
+ Sat, 19 Sep 2015 22:52:16 -0700 (PDT)
+X-Notifications: XEAAAAAgwUJ-b9hcb698SruxFhT0
+X-Account-Notification-Type: PASSWORD_CHANGE
+Feedback-ID: PASSWORD_CHANGE:account-notifier
+Date: Sun, 20 Sep 2015 05:52:07 +0000 (UTC)
+Message-ID: <ld2ohQ4JJ2lm_-sg8F0n4A@notifications.google.com>
+Subject: =?GB2312?B?xPrVyruntcTD3MLrsbu4/LjEwcs=?=
+From: Google <no-reply@accounts.google.com>
+To: 13297957381@163.com
+Content-Type: multipart/related; boundary=001a11422190fa8c250520275dd0
+X-CM-TRANSID:XMCowECpEkR2Sf5VGOymAw--.22799S3
+Authentication-Results: mx42; spf=pass smtp.mail=3ken-vqgtc9eab-e1c8lx
+	zzbhagf.3bb381.zb9oqpwuwsuqvootq.zb9@gaia.bounces.google.com; dkim=pas
+	s header.i=@accounts.google.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUe2-eUUUUU
+Sender: 3ken-vqgtc9eab-e1c8lxzzbhagf.3bb381.zb9oqpwuwsuqvootq.zb9@gaia.bounces.google.com
+
+” º˛Œ¥œ¬‘ÿ.

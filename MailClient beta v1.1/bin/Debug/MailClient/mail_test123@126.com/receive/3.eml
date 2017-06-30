@@ -1,0 +1,61 @@
++OK 2354 octets
+Received: from smtpbg3.qq.com (unknown [183.60.61.198])
+	by mx2 (Coremail) with SMTP id IMmowABXKFQEfiBY39aiAA--.160S3;
+	Mon, 07 Nov 2016 21:15:11 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qq.com; s=s201512;
+	t=1478524418; bh=xXWratQrvAQkdx0ukiytVi29K+SKNpsXl244/aLkgBA=;
+	h=From:To:Cc:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID;
+	b=MNm80vPkxXE7WKIwHbe6tEn+yb+3yT3bnPJUCrmzA4oBKIYHJDcvN17P1qAVkGSr8
+	 EVW3Zye9rrY/fLMePYfhIUijjTfPKD19/Lay1qklrNTkxBIPu6t54CqF/1kV4FbU60
+	 PZGNI7sYR+CUBc/9iVvK+zzVmK0wbBUMjFB2ngd8=
+X-QQ-FEAT: FNrFRr8p9x2SSGth5Zv/BP3+fFdvF9YZyXFeyDckVFRdds8lNizgkqga2eVbJ
+	iaEL+BcWZIlpQIiwyKeH0GByd2SiUtDqlQXhmhtts+vdIeQFvXEuwliNnVJ/hJf40F5y/FP
+	zkz5btRlfSjeSWf00vvLnWoksUX8/jhPe0/q21pW/mm2Q5SqLNbC+t2l5dXxpt7Nlz4YdOw
+	DwyHMjtOrTZGCkBMFPhCDXQaOxCJ0KuNvDSqSjaoThXjdVzR56Qqv
+X-QQ-SSF: 000000000000004000000000000000Z
+X-HAS-ATTACH: no
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 222.20.12.94
+X-QQ-STYLE: 
+X-QQ-mid: webmail239t1478524416t771632
+From: "=?gb18030?B?x9LM/bfn0vc=?=" <2998358286@qq.com>
+To: "=?gb18030?B?bGlhbmdxaV8xOTk1QG91dGxvb2suY29t?=" <liangqi_1995@outlook.com>
+Cc: "=?gb18030?B?bWFpbF90ZXN0MTIz?=" <mail_test123@126.com>
+Subject: =?gb18030?B?s63LzcPcy82y4srU?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_58207DFF_09CF7DE8_48256EF4"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 7 Nov 2016 21:13:35 +0800
+X-Priority: 3
+Message-ID: <tencent_4EF39D8168774E126B2A5A77@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-SENDSIZE: 520
+Feedback-ID: webmail:qq.com:bgweb:bgweb2
+X-CM-TRANSID:IMmowABXKFQEfiBY39aiAA--.160S3
+Authentication-Results: mx2; spf=pass smtp.mail=2998358286@qq.com; dki
+	m=pass header.i=@qq.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUTqjgUUUUU
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_58207DFF_09CF7DE8_48256EF4
+Content-Type: text/plain;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+s63LzcPcy82y4srU
+
+------=_NextPart_58207DFF_09CF7DE8_48256EF4
+Content-Type: text/html;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+PGRpdj6zrcvNw9zLzbLiytQ8L2Rpdj4=
+
+------=_NextPart_58207DFF_09CF7DE8_48256EF4--
+
+.

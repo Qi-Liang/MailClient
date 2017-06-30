@@ -1,0 +1,26 @@
++OK 18585 octets
+Received: from skyrim.avira.com (unknown [62.146.210.27])
+	by mx7 (Coremail) with SMTP id OcCowEDppUBEwKNVdhXjAQ--.3726S2;
+	Mon, 13 Jul 2015 21:42:35 +0800 (CST)
+Received: from market4.avira.com (unknown [62.146.210.87])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client CN "market4.avira.com", Issuer "Avira Intermediate Certificate Authority 2010-2020" (verified OK))
+	by skyrim.avira.com (Postfix) with ESMTPS id DDD7C2BCB
+	for <13297957381@163.com>; Mon, 13 Jul 2015 15:42:25 +0200 (CEST)
+Received: from license.avira.com (localhost [127.0.0.1])
+	by market4.avira.com (Postfix) with ESMTP id EEFAFC0980B
+	for <13297957381@163.com>; Mon, 13 Jul 2015 15:45:09 +0200 (CEST)
+Message-ID: <1436795109.55a3c0e5e8e06@license.avira.com>
+Date: Mon, 13 Jul 2015 15:45:09 +0200
+Subject: Verify your Avira Online Essentials account
+From: Avira Online Essentials <no-reply@avira.com>
+To: 13297957381@163.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_143679510955a3c0e5edc2b_=_"
+X-CM-TRANSID:OcCowEDppUBEwKNVdhXjAQ--.3726S2
+Authentication-Results: mx7; spf=neutral smtp.mail=no-reply@avira.com;
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUt529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUFoGHUUUUU
+
+” º˛Œ¥œ¬‘ÿ.

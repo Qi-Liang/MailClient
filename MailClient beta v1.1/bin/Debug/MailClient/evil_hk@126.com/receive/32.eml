@@ -1,0 +1,35 @@
++OK 1201 octets
+Received: from hello (unknown [122.205.8.218])
+	by smtp2 (Coremail) with SMTP id DMmowAA3HlPh8x9YhJHWBQ--.21791S2;
+	Mon, 07 Nov 2016 11:24:19 +0800 (CST)
+To:evil_hk@126.com
+From:mail_test123@126.com
+Subject:=?utf-8?B?5rWL6K+V6YKu5Lu2?=
+Mime-Version:1.0
+Content-type:multipart/mixed;boundary="ed1809e7-ffad-44aa-8126-e251f925e4f6";
+Content-Transfer-Encoding:8bit
+This is a multi-part message in MIME format
+X-CM-TRANSID:DMmowAA3HlPh8x9YhJHWBQ--.21791S2
+Message-Id:<581FF3E3.9A9A03.29563@m15-112.126.com>
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUvd-BDUUUU
+X-Originating-IP: [122.205.8.218]
+Date: Mon, 7 Nov 2016 11:24:19 +0800 (CST)
+X-CM-SenderInfo: xpdlzsxwhv3iist6ij2wof0z/1tbiHRgbeVUw4hEcWwAAs2
+
+--ed1809e7-ffad-44aa-8126-e251f925e4f6
+Content-type:text/plain;charset=gb2312
+Content-Transfer-Encoding:base64
+
+sK7Jz7XEufq8yruvsLS8/A==
+--ed1809e7-ffad-44aa-8126-e251f925e4f6
+Content-Type:text/plain;name=D:\wangxiaobo.txt
+Content-Transfer-Encoding:base64
+Content-Disposition:attachment;filename="D:\wangxiaobo.txt"
+
+suLK1NPKvP6jrM7e0Oi72Li0oaM=
+--ed1809e7-ffad-44aa-8126-e251f925e4f6--
+
+
+
+.

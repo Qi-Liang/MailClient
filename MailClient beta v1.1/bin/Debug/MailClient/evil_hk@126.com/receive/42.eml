@@ -1,0 +1,36 @@
++OK 1443 octets
+Received: from hello (unknown [222.20.101.61])
+	by smtp4 (Coremail) with SMTP id jdKowACXplooJTxY3+D2DQ--.50S2;
+	Mon, 28 Nov 2016 20:38:31 +0800 (CST)
+From:evil_hk@126.com
+To:evil_hk@126.com
+Cc:mail_test@126.com
+Subject:=?utf-8?B?dGVzdDM=?=
+Mime-Version:1.0
+Content-type:multipart/mixed;boundary="15c94ae5-d42a-48ef-8680-cf6810a1d9c2";
+Content-Transfer-Encoding:8bit
+This is a multi-part message in MIME format
+X-CM-TRANSID:jdKowACXplooJTxY3+D2DQ--.50S2
+Message-Id:<583C2547.2E0652.18460@m50-110.126.com>
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUsdWrDUUUU
+X-Originating-IP: [222.20.101.61]
+Date: Mon, 28 Nov 2016 20:38:31 +0800 (CST)
+X-CM-SenderInfo: xhylzslkn6ij2wof0z/1tbi7gcwQFWnlNLzFAAAsK
+
+--15c94ae5-d42a-48ef-8680-cf6810a1d9c2
+Content-type:text/plain;charset=gb2312
+Content-Transfer-Encoding:base64
+
+dGhpcyBpcyB0aGUgZmlyc3QgdGVzdCE=
+--15c94ae5-d42a-48ef-8680-cf6810a1d9c2
+Content-Type:text/plain;name=C:\Users\hk\Study\ExperimentCourse\ComputerNetwork\MailClient v2.1\MailClient v2.1\MailClient v2.1\MailClient beta v1.1\bin\Debug\hello.txt
+Content-Transfer-Encoding:base64
+Content-Disposition:attachment;filename="C:\Users\hk\Study\ExperimentCourse\ComputerNetwork\MailClient v2.1\MailClient v2.1\MailClient v2.1\MailClient beta v1.1\bin\Debug\hello.txt"
+
+OTk5OTk5OTk5OTkzZ3d0
+--15c94ae5-d42a-48ef-8680-cf6810a1d9c2--
+
+
+
+.

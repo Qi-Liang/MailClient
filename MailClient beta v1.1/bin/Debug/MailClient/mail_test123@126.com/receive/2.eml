@@ -1,0 +1,61 @@
++OK 2343 octets
+Received: from smtpbg14.qq.com (unknown [183.60.61.235])
+	by mx11 (Coremail) with SMTP id v8mowACHxydIfCBYQI95AQ--.22404S3;
+	Mon, 07 Nov 2016 21:06:16 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qq.com; s=s201512;
+	t=1478523976; bh=xHIbdP2A7GpUzolbVyNcyJoqrYOGne0+fMYjYge044s=;
+	h=From:To:Cc:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID;
+	b=jFnMRfZvn2sOv2z0gzLGAqHacBa1xNfLVaRHsBUk1AXHhCFWcnoUOtuDQ90TcTWXu
+	 qxs/1J9nYVy5gB4M5Zi1J9Az0aqTgoCQSgZEPnzgI+WVgmn36wlQcOhvuWeay+43Nw
+	 dtNryl+G+t+jT3ogwWo/04ncehPnIUaZBLF0zDrw=
+X-QQ-FEAT: 0ZH8o+qZJ10F3/ytddAVySDMjwFJFbO3ZD0gUxUjNLl3vxq1x/3Ysb1cIJDL1
+	3Hc7SI6uVBD4JgIXXZHage+fh1TVIDQsBMZivtIMpmyzY8xKyw97b3NFRILGwg2fLYSmi1G
+	/eIM7cQUiI9jZKJUKBgH9IYhysMjGEz5H0SNiaWTUowEyC3bIJIWbf2C4MN89hIxyrUtfkF
+	JQ4JLuMxe8Gw9sN5F1R2KapL9dNkNaAb2gERrJCP4Hg==
+X-QQ-SSF: 000000000000003000000000000000Z
+X-HAS-ATTACH: no
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 222.20.12.94
+X-QQ-STYLE: 
+X-QQ-mid: webmail239t1478523975t5261937
+From: "=?gb18030?B?x9LM/bfn0vc=?=" <2998358286@qq.com>
+To: "=?gb18030?B?bGlhbmdxaV8xOTk1QG91dGxvb2suY29t?=" <liangqi_1995@outlook.com>
+Cc: "=?gb18030?B?bWFpbF90ZXN0MTIz?=" <mail_test123@126.com>
+Subject: =?gb18030?B?s63LzbLiytQ=?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_58207C47_0966EE48_27CD64A6"
+Content-Transfer-Encoding: 8Bit
+Date: Mon, 7 Nov 2016 21:06:15 +0800
+X-Priority: 3
+Message-ID: <tencent_47177E370589BE100334EB2A@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-SENDSIZE: 520
+Feedback-ID: webmail:qq.com:bgweb:bgweb12
+X-CM-TRANSID:v8mowACHxydIfCBYQI95AQ--.22404S3
+Authentication-Results: mx11; spf=pass smtp.mail=2998358286@qq.com; dk
+	im=pass header.i=@qq.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUThFxUUUUU
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_58207C47_0966EE48_27CD64A6
+Content-Type: text/plain;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+s63LzbLiytQ=
+
+------=_NextPart_58207C47_0966EE48_27CD64A6
+Content-Type: text/html;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+PGRpdj6zrcvNsuLK1DwvZGl2Pg==
+
+------=_NextPart_58207C47_0966EE48_27CD64A6--
+
+.

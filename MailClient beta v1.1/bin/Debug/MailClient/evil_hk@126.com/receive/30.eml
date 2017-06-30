@@ -1,0 +1,26 @@
++OK 944 octets
+Received: from hello (unknown [122.205.8.218])
+	by smtp7 (Coremail) with SMTP id DsmowAB3qqgV7B9YWFfVBQ--.35746S2;
+	Mon, 07 Nov 2016 10:51:04 +0800 (CST)
+To:evil_hk@126.com
+From:mail_test123@126.com
+Subject:=?utf-8?B?5rWL6K+V6YKu5Lu2?=
+Mime-Version:1.0
+Content-type:multipart/mixed;boundary="38fb85f4-b23d-49c6-be23-6511cbb34d4e";
+Content-Transfer-Encoding:8bit
+This is a multi-part message in MIME format
+X-CM-TRANSID:DsmowAB3qqgV7B9YWFfVBQ--.35746S2
+Message-Id:<581FEC19.99DFC3.22999@m15-114.126.com>
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxU93ETDUUUU
+X-Originating-IP: [122.205.8.218]
+Date: Mon, 7 Nov 2016 10:51:05 +0800 (CST)
+X-CM-SenderInfo: xpdlzsxwhv3iist6ij2wof0z/1tbifhkbeVgHrHCABAAAsC
+
+--38fb85f4-b23d-49c6-be23-6511cbb34d4e
+Content-type:text/plain;charset=gb2312
+Content-Transfer-Encoding:base64
+
+suLK1NPKvP6jrM7e0Oi72Li0oaM=
+
+.

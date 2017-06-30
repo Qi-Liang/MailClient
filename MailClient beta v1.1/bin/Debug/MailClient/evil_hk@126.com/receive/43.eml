@@ -1,0 +1,48 @@
++OK 2105 octets
+Received: from m50-134.163.com (unknown [123.125.50.134])
+	by mx38 (Coremail) with SMTP id 1MmowADHZoulJTxY2EmeAg--.14541S2;
+	Mon, 28 Nov 2016 20:40:05 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=From:Subject:Mime-Version:Message-Id:Date; bh=zESdh
+	hVDv0+U0EzC2sIZCjkgmimhTI13cZqt/wB5kcw=; b=ESQEXKERkgicceJxnl09p
+	wWUQD+21ikdun9d8jj27t+ZFe/OM8epZkGupVVlEbRmvG/wtpqYZa9N2aXCrI9ha
+	KUllXIDzqpxComZuv6j8wjuT8ACrZy95NaRMa4cR/ooat0P+7m9DFzUD8mGH6QSG
+	6KKfj0j/NL4ZFn+Z9PHjpo=
+Received: from hello (unknown [222.20.101.61])
+	by smtp4 (Coremail) with SMTP id DtGowABHdy+jJTxY1oSMHw--.17482S2;
+	Mon, 28 Nov 2016 20:40:04 +0800 (CST)
+From:13297957381@163.com
+To:evil_hk@126.com
+Cc:983276950@qq.com
+Subject:=?utf-8?B?dGVzdDQ=?=
+Mime-Version:1.0
+Content-type:multipart/mixed;boundary="13c22d85-1a98-46be-848b-8ef91a5111f6";
+Content-Transfer-Encoding:8bit
+This is a multi-part message in MIME format
+X-CM-TRANSID:DtGowABHdy+jJTxY1oSMHw--.17482S2
+Message-Id:<583C25A5.241A4E.17145@m50-134.163.com>
+X-Originating-IP: [222.20.101.61]
+Date: Mon, 28 Nov 2016 20:40:05 +0800 (CST)
+X-CM-SenderInfo: rprtjmyxzvljiyr6il2tof0z/1tbiuwUwoFO-2QaxFQAAs5
+Authentication-Results: mx38; spf=pass smtp.mail=13297957381@163.com; 
+	dkim=pass header.i=@163.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7jjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUqsmRDUUUU
+
+--13c22d85-1a98-46be-848b-8ef91a5111f6
+Content-type:text/plain;charset=gb2312
+Content-Transfer-Encoding:base64
+
+xOO6w6Os1rvKx8C019S5q9SwMTkxMbrFt6LAtLXEz/vPoqGj
+--13c22d85-1a98-46be-848b-8ef91a5111f6
+Content-Type:text/plain;name=C:\Users\hk\Study\ExperimentCourse\ComputerNetwork\MailClient v2.1\MailClient v2.1\MailClient v2.1\MailClient beta v1.1\bin\Debug\hello.txt
+Content-Transfer-Encoding:base64
+Content-Disposition:attachment;filename="C:\Users\hk\Study\ExperimentCourse\ComputerNetwork\MailClient v2.1\MailClient v2.1\MailClient v2.1\MailClient beta v1.1\bin\Debug\hello.txt"
+
+OTk5OTk5OTk5OTkzZ3d0
+--13c22d85-1a98-46be-848b-8ef91a5111f6--
+
+
+
+
+.

@@ -1,0 +1,60 @@
++OK 2219 octets
+Received: from smtpbg331.qq.com (unknown [14.17.43.223])
+	by mx16 (Coremail) with SMTP id xMmowAD3fN7eKx9YDzDiAA--.58275S3;
+	Sun, 06 Nov 2016 21:10:54 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qq.com; s=s201512;
+	t=1478437854; bh=BKVnEUy2YqA+HmVPzrMI5eRlTqH9mKT57zhSizBqCoc=;
+	h=From:To:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID;
+	b=Ots2KQ2Hv98UAL9XGgX7p7OlERPXt/ieLHy9t0QAOeSp4YvFojIL/orRkcx42B9wO
+	 fAN6gX4JhTqRmUCm38HuiZzYxKrzDeO5HO1r9B2STBXEeduPmwUXtNnntD8qunUcpc
+	 bFSt/YdbrX/EE8BifHuvM1uUh62STIUlcyX0KY6Q=
+X-QQ-FEAT: b/v+M7B/dsGHgSega5JxnwfEDf0RpEMQzQbLDOUOlJPZDqWZDa50jXMIloR7j
+	eCtpRcEFaBtOLJyxrpFgPX+6WOyMMTW1+x9ihT7viHB+l0BCZsk+Ibq022doVD1OU+6NmsM
+	Wn6O9eRu+Ny8Ok1l/KtcCTTLIBEj0JRl5HGumfd5/dAnce1bmfbbRoOuD+buVg/jHrHofpO
+	NwOXpwd00hTDVDn89ayeszHaEhV/AlgE=
+X-QQ-SSF: 0000000000000030
+X-QQ-WAPMAIL: 1
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 222.20.41.252
+X-QQ-STYLE: 
+X-QQ-mid: riamail104t1478437853t1151463
+From: "=?gb18030?B?x9LM/bfn0vc=?=" <2998358286@qq.com>
+To: "=?gb18030?B?bWFpbF90ZXN0MTIz?=" <mail_test123@126.com>
+Subject: test
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_581F2BDD_0998CBF0_4010F0F2"
+Content-Transfer-Encoding: 8Bit
+Date: Sun, 6 Nov 2016 21:10:53 +0800
+X-Priority: 3
+Message-ID: <tencent_0575CB364C58EBD16DDA1FF0@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-SENDSIZE: 520
+Feedback-ID: riamail:qq.com:bgweb:bgweb133
+X-CM-TRANSID:xMmowAD3fN7eKx9YDzDiAA--.58275S3
+Authentication-Results: mx16; spf=pass smtp.mail=2998358286@qq.com; dk
+	im=pass header.i=@qq.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvjxUTGNtUUUUU
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_581F2BDD_0998CBF0_4010F0F2
+Content-Type: text/plain;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+suLK1NPKvP6jrM7e0Oi72Li0
+
+------=_NextPart_581F2BDD_0998CBF0_4010F0F2
+Content-Type: text/html;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+suLK1NPKvP6jrM7e0Oi72Li0
+
+------=_NextPart_581F2BDD_0998CBF0_4010F0F2--
+
+.

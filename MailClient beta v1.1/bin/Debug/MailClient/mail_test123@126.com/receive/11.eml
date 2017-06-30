@@ -1,0 +1,77 @@
++OK 3412 octets
+Received: from smtpbg128.qq.com (unknown [183.60.2.224])
+	by mx7 (Coremail) with SMTP id JcmowAC3HL7ZcjRYZAuwAQ--.26605S3;
+	Wed, 23 Nov 2016 00:31:21 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qq.com; s=s201512;
+	t=1479832281; bh=GfXZqqsr+OX0U//dN/ffh32vlCv/RcHNrOdqAZ/k5mg=;
+	h=References:From:To:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID;
+	b=zeCzKbLFROzo8AZuOAVpg0tgXlBAW9o7hhfPa0jQ6wk/BRMsOQytzGKXJOUG2qxH6
+	 vStN3Bc2CKOSAqmvPeKgwwxcO/oL5XUE9pkT7qtML8A3zq5w1NDl5r0m7oMCSiERbD
+	 rcYWHQe8z1Vk8uOjdmHbJ39fsFf9Y1AGpeIJPLbs=
+X-QQ-FEAT: Ds2N6YHsbi7kJgvIZdJnP83K5HM58ccSBVpvPMmPQHykh36zQ5Sl2ZAwo9hYE
+	pN21TVudJjUDXTi4RGh9FYlMHjm5URTpXj98GEPuTbbf0UDejas44Bzkzub99hOe1ccm4Gb
+	C3s4pZU92e8Q/386A439yw0GXt/YqXGka4xyEdxsixcnbUNBPr2puFATmYhH5rWyFE9IsK4
+	ku99+kE+qZcOHB3O+LjaLPPpcd4rRbimt+cj8KQFcmG8JL6XxFsFujBSkiMUvRzK+1gqkM1
+	g7Sg==
+X-QQ-SSF: 0000000000000000
+X-QQ-WAPMAIL: 1
+X-QQ-BUSINESS-ORIGIN: 2
+X-Originating-IP: 115.174.167.244
+References: <58346F87.428337.19452@m50-111.126.com>
+X-QQ-STYLE: 
+X-QQ-mid: riamail98t1479832278t4384180
+From: "=?gb18030?B?dHR5?=" <798254365@qq.com>
+To: "=?gb18030?B?bWFpbF90ZXN0MTIz?=" <mail_test123@126.com>
+Subject: Re: mail test
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_583472D6_0A198EE0_6CA8F568"
+Content-Transfer-Encoding: 8Bit
+Date: Wed, 23 Nov 2016 00:31:18 +0800
+X-Priority: 3
+Message-ID: <tencent_00089F6637B39A343B3D9C22@qq.com>
+X-QQ-MIME: TCMime 1.0 by Tencent
+X-Mailer: QQMail 2.x
+X-QQ-Mailer: QQMail 2.x
+X-QQ-ReplyHash: 2579545004
+X-QQ-SENDSIZE: 520
+Feedback-ID: riamail:qq.com:bgweb:bgweb26
+X-CM-TRANSID:JcmowAC3HL7ZcjRYZAuwAQ--.26605S3
+Authentication-Results: mx7; spf=pass smtp.mail=798254365@qq.com; dkim
+	=pass header.i=@qq.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7bjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvj4RMeHqUUUUU
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_583472D6_0A198EE0_6CA8F568
+Content-Type: text/plain;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+YXNkDQoNCrei19TO0rXEaVBob25lDQoNCi0tLS0tLS0tLS0tLS0tLS0tLSBPcmlnaW5hbCAt
+LS0tLS0tLS0tLS0tLS0tLS0NCkZyb206IG1haWxfdGVzdDEyMyA8bWFpbF90ZXN0MTIzQDEy
+Ni5jb20+DQpEYXRlOiDW3Mj9LDEx1MIgMjMsMjAxNiAwMDoxNw0KVG86IDc5ODI1NDM2NSA8
+Nzk4MjU0MzY1QHFxLmNvbT4NClN1YmplY3Q6IFJlOiBtYWlsIHRlc3QNCg0KDQoNCm1haWwg
+dGVzdA==
+
+------=_NextPart_583472D6_0A198EE0_6CA8F568
+Content-Type: text/html;
+	charset="gb18030"
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0ibWluLWhlaWdodDoyMnB4Ij5hc2Q8L2Rpdj48ZGl2IHN0eWxlPSJtaW4t
+aGVpZ2h0OjIycHgiPjwvZGl2PjxzcGFuIGNsYXNzPSJtYWlsLWZvb3RlciI+t6LX1M7StcRp
+UGhvbmU8L3NwYW4+PGRpdiBpZD0ib3JpZ2luYWwtY29udGVudCI+PGJyPjxicj48ZGl2Pjxk
+aXYgc3R5bGU9ImZvbnQtc2l6ZTo3MCU7cGFkZGluZzoycHggMDsiPi0tLS0tLS0tLS0tLS0t
+LS0tLSBPcmlnaW5hbCAtLS0tLS0tLS0tLS0tLS0tLS08L2Rpdj48ZGl2IHN0eWxlPSJmb250
+LXNpemU6NzAlO2JhY2tncm91bmQ6I2YwZjBmMDtjb2xvcjojMjEyMTIxO3BhZGRpbmc6OHB4
+O2JvcmRlci1yYWRpdXM6NHB4Ij48ZGl2PjxiPkZyb206PC9iPiBtYWlsX3Rlc3QxMjMgJmx0
+O21haWxfdGVzdDEyM0AxMjYuY29tJmd0OzwvZGl2PjxkaXY+PGI+RGF0ZTo8L2I+INbcyP0s
+MTHUwiAyMywyMDE2IDAwOjE3PC9kaXY+PGRpdj48Yj5Ubzo8L2I+IDc5ODI1NDM2NSAmbHQ7
+Nzk4MjU0MzY1QHFxLmNvbSZndDs8L2Rpdj48ZGl2PjxiPlN1YmplY3Q6PC9iPiBSZTogbWFp
+bCB0ZXN0PC9kaXY+PC9kaXY+PC9kaXY+PGJyPm1haWwgdGVzdDwvZGl2Pg==
+
+------=_NextPart_583472D6_0A198EE0_6CA8F568--
+
+.
